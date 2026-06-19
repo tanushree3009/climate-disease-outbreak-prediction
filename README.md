@@ -1,65 +1,54 @@
-
 # Climate Disease Outbreak Prediction System
 
 ## Overview
 
-An AI-powered Early Warning System that predicts infectious disease outbreaks using climate and epidemiological data.
+This project explores the impact of climate change on infectious disease outbreaks in India through the development of a machine learning based Early Warning System.
+
+The system integrates climate and epidemiological indicators to predict outbreak risks for multiple climate-sensitive infectious diseases at the district level.
 
 ## Diseases Covered
 
-- Acute Diarrhoeal Disease
-- Acute Encephalitis Syndrome
-- Acute Gastroenteritis
-- Chikungunya
-- Cholera
-- Dengue
-- Malaria
+* Dengue
+* Malaria
+* Cholera
+* Chikungunya
+* Acute Gastroenteritis
+* Acute Diarrhoeal Disease
+* Acute Encephalitis Syndrome
 
-## Key Features
+## Models Evaluated
 
-- Multi-disease outbreak prediction
-- Climate-aware forecasting
-- District-level risk assessment
-- Interactive dashboard
-- Explainable AI insights
-- Quantum Machine Learning integration
+### Classical Machine Learning
 
-## Models Used
+* Logistic Regression
+* Random Forest
+* XGBoost
 
-### Classical Models
+### Quantum Machine Learning
 
-- Logistic Regression
-- Random Forest
-- XGBoost
-
-### Quantum Models
-
-- Quantum Machine Learning using PennyLane
-
-## Data Sources
-
-- EpiClim Dataset
-- Google Earth Engine Climate Data
+* Hybrid Quantum ML models
 
 ## Climate Features
 
-- Temperature
-- Relative Humidity
-- Precipitation
-- Wind Speed
+* Temperature
+* Relative Humidity
+* Rainfall
+* Wind Speed
+
+## Key Contributions
+
+* Multi-disease outbreak prediction
+* District-level risk forecasting
+* Climate-health data integration
+* Comparative evaluation of classical and quantum ML approaches
+* Interactive visualization and risk assessment framework
 
 ## Results
 
-- Weighted F1 Score: 91%
-- Multi-label disease prediction
-- District-level outbreak forecasting
+The project demonstrated strong predictive performance across multiple diseases and highlighted the potential of climate-aware machine learning systems for public health decision support.
 
-## Dashboard
+## Repository Notice
 
-[Insert screenshots]
+The complete implementation, datasets, and project documentation are not publicly available due to academic and data confidentiality requirements.
 
-## Future Work
-
-- Real-time outbreak prediction
-- Federated learning
-- Integration with public health systems
+This repository is intended to showcase the project scope, methodology, and outcomes.
