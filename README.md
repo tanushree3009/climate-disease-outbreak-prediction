@@ -49,27 +49,27 @@ The project demonstrated strong predictive performance across multiple diseases 
 
 ## System Architecture
 
-![System Architecture](screenshots/1_system_architecture.png)
+![System Architecture](screenshots/system_architecture.png)
 
 ## Dashboard
 
-![Dashboard](screenshots/2_dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ## Outbreak Map
 
-![Outbreak Map](screenshots/3_outbreak_map.png)
+![Outbreak Map](screenshots/outbreak_map.png)
 
 ## Feature Importance
 
-![Feature Importance](screenshots/4_feature_importance.png)
+![Feature Importance](screenshots/feature_importance.png)
 
 ## Model Comparison
 
-![Model Comparison](screenshots/5_model_comparison.png)
+![Model Comparison](screenshots/model_comparison.png)
 
 ## Quantum ML Results
 
-![Quantum Results](screenshots/6_quantum_results.png)
+![Quantum Results](screenshots/quantum_results.png)
 
 ## Repository Notice
 
