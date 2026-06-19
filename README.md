@@ -47,6 +47,30 @@ The system integrates climate and epidemiological indicators to predict outbreak
 
 The project demonstrated strong predictive performance across multiple diseases and highlighted the potential of climate-aware machine learning systems for public health decision support.
 
+## System Architecture
+
+![System Architecture](screenshots/1_system_architecture.png)
+
+## Dashboard
+
+![Dashboard](screenshots/2_dashboard.png)
+
+## Outbreak Map
+
+![Outbreak Map](screenshots/3_outbreak_map.png)
+
+## Feature Importance
+
+![Feature Importance](screenshots/4_feature_importance.png)
+
+## Model Comparison
+
+![Model Comparison](screenshots/5_model_comparison.png)
+
+## Quantum ML Results
+
+![Quantum Results](screenshots/6_quantum_results.png)
+
 ## Repository Notice
 
 The complete implementation, datasets, and project documentation are not publicly available due to academic and data confidentiality requirements.
